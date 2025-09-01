@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Riccardo!
 
 Welcome to my portfolio!  
-I work in **CRM, Email Marketing, and Retention**, with experience in customer loyalty strategies and digital tools to enhance the customer experience.
+I work in **CRM, Retention and Email Marketing & Lifecycle**, with experience in customer loyalty strategies and digital tools to enhance the customer experience.
 
 ---
 
@@ -9,7 +9,7 @@ I work in **CRM, Email Marketing, and Retention**, with experience in customer l
 This repository collects my most relevant projects, organized into thematic folders:
 
 - 📂 **Work/** → professional projects, dashboards etc. on CRM & Email Marketing campaigns.  
-- 📂 **Academics/** → academic dissertations, exams transcripts.  
+- 📂 **Academics/** → academic dissertations with exams transcripts.  
 
 ---
 
@@ -33,4 +33,4 @@ This repository collects my most relevant projects, organized into thematic fold
 
 ---
 
-✨ *“Retention isn’t about keeping users — it’s about keeping them engaged.”*
+✨ *“As a marketer I see goals. As an engineer I see improvements.”*
