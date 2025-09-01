@@ -1,5 +1,36 @@
-Hi! Please find here my projects:
------> For anything related to work, file names start with the label "Work";
------> For anything related to academics, file names start with the label "Academics";
+# 👋 Hi, I'm Riccardo!
 
-Enjoy!
+Welcome to my portfolio!  
+I work in **CRM, Email Marketing, and Retention**, with experience in customer loyalty strategies and digital tools to enhance the customer experience.
+
+---
+
+## 🚀 What you’ll find here
+This repository collects my most relevant projects, organized into thematic folders:
+
+- 📂 **Work/** → professional projects, dashboards etc. on CRM & Email Marketing campaigns.  
+- 📂 **Academics/** → academic dissertations, exams transcripts.  
+
+---
+
+## 🎯 Core skills
+- **CRM & Retention Marketing** → customer lifecycle strategies, churn reduction, customer journey mapping.  
+- **Email Marketing** → automation, A/B testing, deliverability, advanced segmentation.  
+- **Tools** → Optimove, Brevo, Microsoft Dynamics 365 CRM, advanced Excel.  
+
+---
+
+## 🌱 Currently growing in
+- **Computer Engineering** (Master’s degree)  
+- **Machine Learning & AI applied to CRM**  
+- **Multichannel marketing automation**  
+
+---
+
+## 📬 Get in touch
+- 💼 [LinkedIn](https://www.linkedin.com/in/riccardo-raciti)  
+- 📧 [Email](mailto:riccardo.raciti97@gmail.com)   
+
+---
+
+✨ *“Retention isn’t about keeping users — it’s about keeping them engaged.”*
