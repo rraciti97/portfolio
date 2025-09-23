@@ -4,4 +4,5 @@
 ![Dashboard 1](./Dashboard%201.png)
 ---
 ## Dashboard for goals
-
+![Dashboard 1](./Dashboard%202.png)
+---
