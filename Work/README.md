@@ -37,7 +37,7 @@ Find here an example of them, extremely useful when tracking our journey in reac
 ## 👉 More of it  
 
 
-![Goals Dashboard](./PPT%20Marketing%20Performances%20Slide%20Example.pdf)  
+![Goals Dashboard](./PPT%20Marketing%20Performances%20Slide%20Example)  
 
 ---
 
