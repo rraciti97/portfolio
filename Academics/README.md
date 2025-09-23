@@ -1,0 +1,29 @@
+# 🎓 My Academic Journey  
+
+I’ve always believed that learning is a journey, not a straight line — we should never stoplearning! And mine has taken me across quite a few exciting paths.  
+
+I started out with my **first bachelor’s degree in Languages and Translation**, driven by a passion for communication and understanding different cultures.  
+
+While exploring career opportunities, I entered the **iGaming industry**, where I began working in CRM. At the same time, I pursued a **Master’s in Marketing and Communications**, combining academic knowledge with hands-on industry experience.  
+
+As my career in CRM grew, I realized how much technology and data-driven insights were shaping the future. That’s why I decided to return to academia and completed a **second bachelor’s degree in Computer Engineering** — bridging my background in communication with the technical skills needed in today’s digital world.  
+
+Now, I’m taking the next step: starting a **Master’s in Computer Engineering and Applied AI**. My goal is to stay at the forefront of industry trends, innovations, and the powerful role AI will continue to play in shaping CRM and beyond. 🚀  
+
+---
+
+## 📑 Dissertations  
+- [📘 Bachelor’s Dissertation – Languages and Translation](./Bachelor_Languages_Dissertation.pdf)  
+- [📗 Master’s Dissertation – Marketing and Communications](./Master_Marketing_Dissertation.pdf)  
+- [📕 Bachelor’s Dissertation – Computer Engineering](./Bachelor_Computer_Engineering_Dissertation.pdf)  
+
+---
+
+## 🗂️ Academic Records  
+- [📄 Academic Transcript – Languages and Translation](./Transcript_Languages.pdf)  
+- [📄 Academic Transcript – Marketing and Communications](./Transcript_Marketing.pdf)  
+- [📄 Academic Transcript – Computer Engineering](./Transcript_Computer_Engineering.pdf)  
+
+---
+
+✨ *This folder is a reflection of where I’ve been academically, and a preview of where I’m heading next.*
