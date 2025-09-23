@@ -1,6 +1,6 @@
-# 🎓 My Academic Journey  
+ # 🎓 My Academic Journey  
 
-I’ve always believed that learning is a journey, not a straight line — we should never stoplearning! And mine has taken me across quite a few exciting paths.  
+I’ve always believed that learning is a journey, not a straight line — we should never stop learning! And mine has taken me across quite a few exciting paths.  
 
 I started out with my **first bachelor’s degree in Languages and Translation**, driven by a passion for communication and understanding different cultures.  
 
