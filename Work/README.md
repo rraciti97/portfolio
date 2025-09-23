@@ -18,7 +18,9 @@ They help to:
 
 Here’s one I personally found extremely useful on a daily basis, 'cause it helps to visualize and filter trends and main differences according to the selected iGaming license and Country that we want to check:
 
-![Main KPI Dashboard](./Dashboard%201.png)  
+<div align="center">
+  <img src="./Dashboard%201.png" alt="Dashboard 1" width="600" style="border:2px solid black;"/>
+</div>
 
 ---
 
