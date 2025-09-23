@@ -37,9 +37,9 @@ Find here an example of them, extremely useful when tracking our journey in reac
 ## 👉 More of it  
 Some more fancy works in PDF, Excelm, or PPT to show data in a glance:
 
-<img src="./Dashboard%203.png" alt="Performances" width="600" style="border:2px solid black;"/>
+<img src="./Dashboard%203.png" alt="Performances" style="border:2px black;"/>
 
-<img src="./Dashboard%204.png" alt="Performances" width="600" style="border:2px solid black;"/>
+<img src="./Dashboard%204.png" alt="Performances" style="border:2px black;"/>
 
 ---
 
