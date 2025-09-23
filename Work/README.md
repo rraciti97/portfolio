@@ -34,4 +34,11 @@ Find here an example of them, extremely useful when tracking our journey in reac
 
 ---
 
+## 👉 More of it  
+
+
+![Goals Dashboard](./Dashboard%202.png)  
+
+---
+
 ✨ *More dashboards and insights coming soon — stay tuned!*  
