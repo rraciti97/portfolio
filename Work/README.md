@@ -1,9 +1,23 @@
-# Have a sneak peek on what I have been doing in my previous and current roles:
+# 👀 Sneak Peek into My Work  
 
-## Dashboard for the main KPI
-I have been building several dashboards in my experience in CRM in the iGaming industry, and here's a couple of them that I personally found useful on a daily basis
-![Dashboard 1](./Dashboard%201.png)
+Take a look at some of the dashboards I’ve created during my previous and current roles in **CRM** the **iGaming industry**.  
+These dashboards helped my teams and me track performance, make data-driven decisions, and stay aligned with business goals. 🚀  
+
 ---
-## Dashboard for goals
-![Dashboard 1](./Dashboard%202.png)
+
+## 📊 Dashboard for Main KPIs  
+During my experience in CRM within the iGaming industry, I built several dashboards to monitor **key metrics**.  
+Here’s one I personally found extremely useful on a daily basis:  
+
+![Main KPI Dashboard](./Dashboard%201.png)  
+
 ---
+
+## 🎯 Dashboard for Goals  
+I also designed dashboards to track **progress toward goals**, making it easier to stay focused and measure success effectively:  
+
+![Goals Dashboard](./Dashboard%202.png)  
+
+---
+
+✨ *More dashboards and insights coming soon — stay tuned!*  
