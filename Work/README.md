@@ -37,10 +37,9 @@ Find here an example of them, extremely useful when tracking our journey in reac
 ## 👉 More of it  
 Some more fancy works in PDF, Excelm, or PPT to show data in a glance:
 
-![Performances](./Dashboard%203.png)  
+<img src="./Dashboard%203.png" alt="Performances" width="600" style="border:2px solid black;"/>
 
-Or again:
-![Performances](./Dashboard%204.png)
+<img src="./Dashboard%204.png" alt="Performances" width="600" style="border:2px solid black;"/>
 
 ---
 
