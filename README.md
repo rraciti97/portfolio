@@ -7,9 +7,9 @@ I work in **CRM, Retention and Email Marketing & Lifecycle**, with experience in
 
 ## 🚀 What you’ll find here
 This repository collects my most relevant projects, organized into thematic folders:
-
-- 📂 **Work/** → professional projects, dashboards etc. on CRM & Email Marketing campaigns.  
-- 📂 **Academics/** → academic dissertations with exams transcripts.  
+ 
+- 📂 **Academics/** → academic dissertations with exams transcripts.
+- 📂 **Work/** → professional projects, dashboards etc. on CRM & Email Marketing campaigns. 
 
 ---
 
