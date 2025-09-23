@@ -1,6 +1,7 @@
 # 👀 Sneak peek into my work  
 
 Take a look at some of the dashboards and materials I’ve created during my previous and current roles in **CRM** the **iGaming industry**, using a combination of tools such as Power BI, Excel, Power Point and more.
+
 These dashboards helped my teams and me track performance, make data-driven decisions, and stay aligned with business goals. 🚀  
 
 ---
