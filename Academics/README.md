@@ -14,7 +14,7 @@ Now, I’m taking the next step: starting a **Master’s in Computer Engineering
 
 ## 📑 Dissertations  
 - [📘 Bachelor’s Dissertation – Languages and Translation](./Thesis%20(Italian)%20-%20B.A.%20Languages%20and%20Translation%20(L-12).pdf)  
-- [📗 Master’s Dissertation – Marketing and Communications](./Master_Marketing_Dissertation.pdf)  
+- [📗 Master’s Dissertation – Marketing and Communications](./Thesis%20(Italian)%20-%20M.A.%20Marketing%20and%20Communication%20(LM-59).pdf)  
 - [📕 Bachelor’s Dissertation – Computer Engineering](./Bachelor_Computer_Engineering_Dissertation.pdf)  
 
 ---
