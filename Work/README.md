@@ -19,7 +19,7 @@ They help to:
 Here’s one I personally found extremely useful on a daily basis, 'cause it helps to visualize and filter trends and main differences according to the selected iGaming license and Country that we want to check:
 
 <div align="center">
-  <img src="./Dashboard%201.png" alt="Dashboard 1" width="800" style="border:2px solid black;"/>
+  <img src="./Dashboard%201.png" alt="MainKPIs" width="800" style="border:2px solid black;"/>
 </div>
 
 ---
@@ -34,19 +34,25 @@ These ones help to:
 
 Find here an example of them, extremely useful when tracking our journey in reaching the marked goals:
 
-![Goals Dashboard](./Dashboard%202.png)  
+<div align="center">
+  <img src="./Dashboard%202.png" alt="Goals" width="800" style="border:2px solid black;"/>
+</div>  
 
 ---
 
 ## 👉 More of it pt.1
 Some more fancy works in PDF, Excel, or PPT to show data in a glance:
 
-![Performances](./Dashboard%203.png)  
+<div align="center">
+  <img src="./Dashboard%203.png" alt="Performances" width="800" style="border:2px solid black;"/>
+</div>  
 
 ## 👉 More of it pt.2
 Some more fancy works in PDF, Excel, or PPT to show data in a glance:
 
-![Performances](./Dashboard%204.png)  
+<div align="center">
+  <img src="./Dashboard%204.png" alt="Performances" width="800" style="border:2px solid black;"/>
+</div>  
 
 
 ---
