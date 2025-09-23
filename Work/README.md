@@ -37,12 +37,12 @@ Find here an example of them, extremely useful when tracking our journey in reac
 ---
 
 ## 👉 More of it pt.1
-Some more fancy works in PDF, Excelm, or PPT to show data in a glance:
+Some more fancy works in PDF, Excel, or PPT to show data in a glance:
 
 ![Performances](./Dashboard%203.png)  
 
 ## 👉 More of it pt.2
-Some more fancy works in PDF, Excelm, or PPT to show data in a glance:
+Some more fancy works in PDF, Excel, or PPT to show data in a glance:
 
 ![Performances](./Dashboard%204.png)  
 
