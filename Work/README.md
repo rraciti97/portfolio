@@ -1,4 +1,4 @@
-# 👀 Sneak Peek into My Work  
+# 👀 Sneak peek into my work  
 
 Take a look at some of the dashboards I’ve created during my previous and current roles in **CRM** the **iGaming industry**.  
 These dashboards helped my teams and me track performance, make data-driven decisions, and stay aligned with business goals. 🚀  
