@@ -28,7 +28,7 @@ These ones help to:
 ✅ Keep teams **motivated and accountable**  
 ✅ Support **strategic planning** with clear insights  
 
-Find here an example of them, extremely useful when tracking our journey in reaching the markked goals:
+Find here an example of them, extremely useful when tracking our journey in reaching the marked goals:
 
 ![Goals Dashboard](./Dashboard%202.png)  
 
@@ -38,7 +38,10 @@ Find here an example of them, extremely useful when tracking our journey in reac
 Some more fancy works in PDF, Excelm, or PPT to show data in a glance:
 
 ![Performances](./Dashboard%203.png)  
+
+Or again:
 ![Performances](./Dashboard%204.png)
+
 ---
 
 ✨ *More dashboards and insights coming soon — stay tuned!*  
