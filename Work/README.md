@@ -4,6 +4,8 @@ Take a look at some of the dashboards and materials I’ve created during my pre
 
 These dashboards helped my teams and me track performance, make data-driven decisions, and stay aligned with business goals. 🚀  
 
+*disclaimer: all the follwing are built with dummy data as per ND Agreements
+
 ---
 
 ## 📊 Dashboard for Main KPIs  
@@ -34,12 +36,16 @@ Find here an example of them, extremely useful when tracking our journey in reac
 
 ---
 
-## 👉 More of it  
+## 👉 More of it pt.1
 Some more fancy works in PDF, Excelm, or PPT to show data in a glance:
 
-<img src="./Dashboard%203.png" alt="Performances" style="border:2px black;"/>
+![Performances](./Dashboard%203.png)  
 
-<img src="./Dashboard%204.png" alt="Performances" style="border:2px black;"/>
+## 👉 More of it pt.2
+Some more fancy works in PDF, Excelm, or PPT to show data in a glance:
+
+![Performances](./Dashboard%204.png)  
+
 
 ---
 
