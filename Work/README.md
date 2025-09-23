@@ -13,7 +13,7 @@ They help to:
 ✅ Detect **trends and anomalies** quickly  
 ✅ Align stakeholders around a **single source of truth**
 
-Here’s one I personally found extremely useful on a daily basis:  
+Here’s one I personally found extremely useful on a daily basis, 'cause it helps to visualize and filter trends and main differences according to the selected iGaming license and Country that we want to check:
 
 ![Main KPI Dashboard](./Dashboard%201.png)  
 
@@ -27,7 +27,7 @@ These ones help to:
 ✅ Keep teams **motivated and accountable**  
 ✅ Support **strategic planning** with clear insights  
 
-Find here an example of them
+Find here an example of them, extremely useful when tracking our journey in reaching the markked goals:
 
 ![Goals Dashboard](./Dashboard%202.png)  
 
