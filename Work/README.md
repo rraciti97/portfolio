@@ -35,10 +35,10 @@ Find here an example of them, extremely useful when tracking our journey in reac
 ---
 
 ## 👉 More of it  
+Some more fancy works in PDF, Excelm, or PPT to show data in a glance:
 
-
-![Performances](./PDF-PPT%20Marketing%20Performances%20Slide%20Example.pdf)  
-
+![Performances](./Dashboard%203.png)  
+![Performances](./Dashboard%204.png)
 ---
 
 ✨ *More dashboards and insights coming soon — stay tuned!*  
