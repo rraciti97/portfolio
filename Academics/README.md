@@ -16,7 +16,7 @@ _*disclaimer: all the linked records are in Italian as I attended all the course
 
 ## 📑 Dissertations  
 - [📘 Bachelor’s Dissertation – Languages and Translation](./Thesis%20(Italian)%20-%20B.A.%20Languages%20and%20Translation%20(L-12).pdf)  
-- [📘 Bachelor’s Dissertation – Computer Engineering](./Bachelor_Computer_Engineering_Dissertation.pdf)
+- [📘 Bachelor’s Dissertation – Computer Engineering](./Thesis%20(Italian)%20-%20B.Sc.%20Computer%20Engineering%20(L-8).pdf)
 - [📕 Master’s Dissertation – Marketing and Communications](./Thesis%20(Italian)%20-%20M.A.%20Marketing%20and%20Communication%20(LM-59).pdf)  
 - [📕 Master’s Dissertation – Computer Engineering and Applied AI](./Bachelor_Computer_Engineering_Dissertation.pdf)
 
