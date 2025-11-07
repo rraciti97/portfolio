@@ -1,4 +1,5 @@
- # 🎓 My Academic Journey  
+<p align="justify"> 
+# 🎓 My Academic Journey  
 
 I’ve always believed that learning is a journey, not a straight line — we should never stop learning! And mine has taken me across quite a few exciting paths.  
 
@@ -39,3 +40,4 @@ _*disclaimer: all the linked records are in Italian as I attended all the course
 
 ---
 
+</p>
