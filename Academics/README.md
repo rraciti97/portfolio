@@ -1,6 +1,5 @@
-<p align="justify"> 
-# 🎓 My Academic Journey  
-
+ # 🎓 My Academic Journey  
+<p align="justify">
 I’ve always believed that learning is a journey, not a straight line — we should never stop learning! And mine has taken me across quite a few exciting paths.  
 
 I started out with my **first bachelor’s degree in Languages and Translation**, driven by a passion for communication and understanding different cultures.  
@@ -12,7 +11,7 @@ As my career in CRM grew, I realized how much technology and data-driven insight
 Now, I’m taking the next step: starting a **Master’s in Computer Engineering and Applied AI**. My goal is to stay at the forefront of industry trends, innovations, and the powerful role AI will continue to play in shaping CRM and beyond. 🚀  
 
 _*disclaimer: all the linked records are in Italian as I attended all the courses and programs in hybrid mode in Italy_
-
+</p>
 ---
 
 ## 📑 Dissertations  
