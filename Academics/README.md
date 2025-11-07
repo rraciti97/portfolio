@@ -15,9 +15,15 @@ _*disclaimer: all the linked records are in Italian as I attended all the course
 ---
 
 ## 📑 Dissertations  
-- [📘 Bachelor’s Dissertation – Languages and Translation](./Thesis%20(Italian)%20-%20B.A.%20Languages%20and%20Translation%20(L-12).pdf)  
+- [📘 Bachelor’s Dissertation – Languages and Translation](./Thesis%20(Italian)%20-%20B.A.%20Languages%20and%20Translation%20(L-12).pdf)
+  Bachelor’s thesis analyzing the concept of political and social engagement in literature through the works of Jean-Paul Sartre, Ṭāhā Ḥusayn, and Ghassān Kanafānī. The research explores how Sartre’s existentialism influenced Arabic literature, particularly the notion of Iltizām (commitment), and examines Kanafānī’s Rijāl fī al-Shams as a literary reflection of Palestinian identity and resistance after the Nakba.
+  
 - [📘 Bachelor’s Dissertation – Computer Engineering](./Thesis%20(Italian)%20-%20B.Sc.%20Computer%20Engineering%20(L-8).pdf)
-- [📕 Master’s Dissertation – Marketing and Communications](./Thesis%20(Italian)%20-%20M.A.%20Marketing%20and%20Communication%20(LM-59).pdf)  
+  Bachelor’s thesis exploring the mathematical models and algorithmic approaches underlying the integration of Artificial Intelligence into Customer Relationship Management (CRM) systems. The research analyzes how Machine Learning, Deep Learning, and Natural Language Processing can optimize customer segmentation, churn prediction, and personalization, combining theoretical foundations with real-world case studies to assess practical business applications and ethical implications.
+  
+- [📕 Master’s Dissertation – Marketing and Communications](./Thesis%20(Italian)%20-%20M.A.%20Marketing%20and%20Communication%20(LM-59).pdf)
+  Master’s thesis analyzing the relationship between communication psychology and marketing strategies in the online gambling industry. The research explores persuasive communication practices, ethical implications, and psychological effects on players, combining insights from marketing theory and behavioral psychology to assess responsible gambling approaches and corporate communication models.
+  
 - [📕 Master’s Dissertation – Computer Engineering and Applied AI](./Bachelor_Computer_Engineering_Dissertation.pdf) <> coming soon!
 
 ---
