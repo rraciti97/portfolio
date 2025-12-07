@@ -34,7 +34,7 @@ _*disclaimer: all the linked records are in Italian as I attended all the course
 ## 🗂️ Academic Records  
 - [📄 Academic Transcript – Languages and Translation](./Transcript%20(Italian)%20-%20B.A.%20Languages%20and%20Translation%20(L-12).pdf)  
 - [📄 Academic Transcript – Marketing and Communications](./Transcript%20(Italian)%20-%20M.A.%20Marketing%20and%20Communication%20(LM-59).pdf)  
-- [📄 Academic Transcript – Computer Engineering](./Transcript_Computer_Engineering.pdf)
+- [📄 Academic Transcript – Computer Engineering](./Transcript%20(Italian)%20-%20B.A.%20Computer%20Engineering%20(L-8).pdf)
 - [📄 Academic Transcript – Computer Engineering and Applied AI](./Transcript_Computer_Engineering.pdf) 
 
 ---
