@@ -29,7 +29,7 @@ _*disclaimer: all the linked records are in Italian as I attended all the course
   
 [📕 Master’s Dissertation – Computer Engineering and Applied AI](./Bachelor_Computer_Engineering_Dissertation.pdf)
 
-  <> coming soon!
+ >> <> coming soon!
 
 ---
 
