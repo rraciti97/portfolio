@@ -1,12 +1,12 @@
  # 🎓 My Academic Journey  
 
-I’ve always believed that learning is a journey, not a straight line — we should never stop learning! And mine has taken me across quite a few exciting paths.  
+I’ve always believed that learning is a journey, not a straight line... therefore we should never stop learning! And mine has taken me across quite a few exciting paths.  
 
 I started out with my **first bachelor’s degree in Languages and Translation**, driven by a passion for communication and understanding different cultures.  
 
 While exploring career opportunities, I entered the **iGaming industry**, where I began working in CRM. At the same time, I pursued a **Master’s in Marketing and Communications**, combining academic knowledge with hands-on industry experience.  
 
-As my career in CRM grew, I realized how much technology and data-driven insights were shaping the future. That’s why I decided to return to academia and completed a **second bachelor’s degree in Computer Engineering** — bridging my background in communication with the technical skills needed in today’s digital world.  
+As my career in CRM grew, I realized how much technology and data-driven insights were shaping the future. That’s why I decided to return to academia and completed a **second bachelor’s degree in Computer Engineering**, bridging my background in communication with the technical skills needed in today’s digital world.  
 
 Now, I’m taking the next step: starting a **Master’s in Computer Engineering and Applied AI**. My goal is to stay at the forefront of industry trends, innovations, and the powerful role AI will continue to play in shaping CRM and beyond. 🚀  
 
